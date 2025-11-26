@@ -15,8 +15,11 @@ I made this project to practice Java basics and also to have something practical
 ## 📂 Project Structure
 
 NetworkDeviceMonitor/
+
 ├── Main.java
+
 ├── devices.txt
+
 └── README.md
 
 ## ▶️ How to Run
