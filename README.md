@@ -12,8 +12,14 @@ I made this project to practice Java basics and also to have something practical
 - Save and load devices from `devices.txt`
 - Small German comments in the code (#kleineHinweise)
 
-  ## ▶️ How to Run
+## 📂 Project Structure
 
+NetworkDeviceMonitor/
+├── Main.java
+├── devices.txt
+└── README.md
+
+## ▶️ How to Run
 Make sure you have Java installed (Java 17+ recommended).
 javac Main.java
 java Main
